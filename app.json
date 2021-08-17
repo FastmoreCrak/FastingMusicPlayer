@@ -1,8 +1,8 @@
 {
-  "name": "Music Bot",
+  "name": "Fasting Bot",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/ImJanindu/GroupMusicBot",
+  "repository": "https://github.com/FastmoreCrak/FastingMusicPlayer",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -14,7 +14,7 @@
       "required": true
     },
     "BOT_NAME": {
-      "description": "Your MusicPlayer Bot Name.",
+      "description": "Your Musicfasting Bot Name.",
       "required": false,
       "value": ""
     },
